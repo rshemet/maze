@@ -1,0 +1,14 @@
+table td {
+    border: 1px #000000 solid;
+    height: 30px;
+    width: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-widget{
+    border: 1px #000000 solid;
+    height: 100px;
+    width: '80vh';
+    text-align: center;
+}
